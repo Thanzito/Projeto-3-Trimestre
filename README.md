@@ -1,4 +1,6 @@
 # Projeto-3-Trimestre
+01/10/2024
+
 grupo: Nathan Cavalcante;
        Lucas Gonçalves;
        Eric de Oliveira;
@@ -7,3 +9,5 @@ Tema da história: Você é um residente dentro de uma nave espacial, todos est�
 
 personagens: Você/protagonista: Você é um residente, fraco e indefeso perante a criatura, com o objetivo de escapar da nave, o protagonista deverá usar seus recursos e tomar decisões para escapar da criatura, seja de forma inteligente ou em um confronto direto;
              Criatura: Uma forma de vida inteligente predadora, buscando sempre surpreender o protagonista.
+
+02/10/2024
