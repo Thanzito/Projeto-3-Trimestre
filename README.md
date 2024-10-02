@@ -11,3 +11,4 @@ personagens: Você/protagonista: Você é um residente, fraco e indefeso perante
              Criatura: Uma forma de vida inteligente predadora, buscando sempre surpreender o protagonista.
 
 02/10/2024
+hoje começamos a montar as alternativas e a programar a pagina inicial
