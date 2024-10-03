@@ -12,3 +12,6 @@ personagens: Você/protagonista: Você é um residente, fraco e indefeso perante
 
 02/10/2024
 hoje começamos a montar as alternativas e a programar a pagina inicial
+
+03/10/2024
+hoje continuamos o resto da história
