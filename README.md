@@ -15,3 +15,6 @@ hoje começamos a montar as alternativas e a programar a pagina inicial
 
 03/10/2024
 hoje continuamos o resto da história
+
+07/10/2024
+hoje foi o inicio da programação
