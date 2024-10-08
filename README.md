@@ -18,3 +18,6 @@ hoje continuamos o resto da história
 
 07/10/2024
 hoje foi o inicio da programação
+
+08/10/2024
+Hoje começamos a inserir a historia dentro do site
