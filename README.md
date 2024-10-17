@@ -21,3 +21,6 @@ hoje foi o inicio da programação
 
 08/10/2024
 Hoje começamos a inserir a historia dentro do site
+
+17/10/2024
+Hoje continuamos a montar o estilo do site
