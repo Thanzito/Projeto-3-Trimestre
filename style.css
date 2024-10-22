@@ -8,6 +8,7 @@
 
 body {
     background-color: var(--cor-fundo);
+    background-image: url(imagem.img/CenaRifleExpandida.jpeg);
     color: var(--cor-texto);
     display: flex;
     justify-content: center;
