@@ -24,3 +24,6 @@ Hoje começamos a inserir a historia dentro do site
 
 17/10/2024
 Hoje continuamos a montar o estilo do site
+
+22/10/2024
+hoje continuamos a montar o estilo do site
