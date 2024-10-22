@@ -26,4 +26,5 @@ Hoje começamos a inserir a historia dentro do site
 Hoje continuamos a montar o estilo do site
 
 22/10/2024
-hoje continuamos a montar o estilo do site
+hoje continuamos a montar o estilo do site;
+Terminei o site. fiz tudo sozinho praticamente
